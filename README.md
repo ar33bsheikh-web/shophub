@@ -6,4 +6,4 @@ Quick note about the Live Demo links
 These URLs will work after you enable GitHub Pages:
 Repo → Settings → Pages → Source: Deploy from a branch → Branch: main / root → Save
 If your repo names are different, update:
-https://ar33bsheikh-web.github.io/shophub/
+https://github.com/ar33bsheikh-web/shophub
